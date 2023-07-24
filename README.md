@@ -1,0 +1,1 @@
+The sliding tab feature is a common user interface element used to organize content into different sections or categories. It provides an interactive way for users to switch between tabs and view relevant content. This implementation utilizes HTML, CSS, and JavaScript to create a simple sliding tab feature.
